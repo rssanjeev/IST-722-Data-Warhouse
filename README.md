@@ -13,7 +13,7 @@ The data must be able to track an order from the time it is placed to the time i
 From the functional requirements we will be able to model the business process of product ordering. There is extensive value in understanding this portion of the business as it includes data about how our sales and customer experience. We can analyze things like operational efficiency, stock keeping, and customer experience using this model.
 
 ## Primary Roles
-### Manager – Nick
-### Data Modeling – Christy
-### ETL - Sanjeev
-### BI - Jiaming
+### Manager – Nick Brown
+### Data Modeling – Christy Sato
+### ETL - Sanjeev Ramasamy Seenivasagamani
+### BI - Jiaming Guo
